@@ -1,0 +1,21 @@
+{
+  "name": "project-gulp",
+  "version": "1.0.0",
+  "description": "Создаем проект с помощью gulp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jenya",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-file-include": "^2.2.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {}
+}
